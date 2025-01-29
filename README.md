@@ -4,9 +4,9 @@
 
 3. Geometric transformation
 
-4. Compute homography matrix
+4. Given a set of corresponding points between two images, compute the homography matrix. Use this matrix to warp one image onto another, and display the original and warped images. 
 
-5. Perspective transformation
+5. Show the original image and the transformed image that appears as if viewed from a different angle.
 
 6. Camera caliberation
 
