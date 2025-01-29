@@ -12,7 +12,7 @@
 
 7. Compute fundamental matrix
 
-8. SIFT feature descriptor
+8. Apply edge detection using Canny or Sobel, line detection (using Hough Transform), and corner detection (using Harris) on a sample image. Display the results of each operation sequentially.
 
 9. Extract SIFT features from an image and visualize keypoints on the original image. Discuss how SIFT can be used for matching between different images.
 
